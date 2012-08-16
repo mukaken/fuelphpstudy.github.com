@@ -19,7 +19,7 @@ tagline: Supporting tagline
 
 ## 過去の開催一覧
 
-- <a href="#">作成中</a>
+- [comming soon...]()
 
 ## 記事一覧
 
